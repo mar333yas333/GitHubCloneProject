@@ -1,3 +1,2 @@
-Hello from main branch
-Hello from feature branch
+Modification in main branch.
 
